@@ -1,5 +1,5 @@
 
-from assignment1 import *
+from example1 import *
 
 class Tests:
 
@@ -7,9 +7,9 @@ class Tests:
     """
     Test the foo method with variety of args
     """
-    assert foo(10, 20) == 200
-    assert foo(-5, -3) == 15
-    assert foo(-5, 3) == -15
+    assert foo("Hello", "world!") == "Hello world!"
+    assert foo("Hello", "") == "Hello "
+    assert foo("world!", "Hello") == "world! Hello"
 
   def test_bar(self):
     """
