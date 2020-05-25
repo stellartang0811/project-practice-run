@@ -70,7 +70,7 @@ Install the Python extension for Visual Studio Code:
 We will now download this code from GitHub.com into Visual Studio Code on your own computer...
 
 - Open Visual Studio Code
-- click the Source Control icon in the left toolbar and then click the button to "Clone Repository".
+- click the Source Control icon in the left tool bar and then click the button to "Clone Repository".
 - A text field will pop open at the top of Visual Studio Code for the web address of the repository to clone. Paste in the address of your personal repository on GitHub and hit Enter.
 - A Finder (Mac) / File Explorer (Windows) window will pop open asking you where you would like to save the files in this project. Select a folder/directory where you would like to copy this code, such as your Documents directory.
 - Visual Studio Code may ask you to "sign in" to GitHub... do so, if requested.
