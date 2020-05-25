@@ -158,7 +158,7 @@ main()
 
 ### Verify that the tests pass
 
-We will verify that the test programs we have written still pass. Failed tests help identify problems in the code.
+We will verify that the test programs we have written now all pass. Failed tests help identify problems in the code.
 
 - Switch to the Test view in Visual Studio Code
 - Click the "Run All Tests" button - the green play button that appears if you hover the cursor over the top-left area of the window.
