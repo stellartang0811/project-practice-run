@@ -30,6 +30,6 @@ class Tests:
     """
     Test the main method
     """
-    baz()
+    main()
     captured = capsys.readouterr() # capture print output
     assert captured.out == "Hello world!\nHello world!\nHello world!\n"
