@@ -25,3 +25,11 @@ class Tests:
     baz()
     captured = capsys.readouterr() # capture print output
     assert captured.out == "Hello world!\n"
+
+  def test_main(self):
+    """
+    Test the main method
+    """
+    baz()
+    captured = capsys.readouterr() # capture print output
+    assert captured.out == "Hello world!\nHello world!\nHello world!\n"
