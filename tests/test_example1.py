@@ -26,7 +26,7 @@ class Tests:
     captured = capsys.readouterr() # capture print output
     assert captured.out == "Hello world!\n"
 
-  def test_main(self):
+  def test_main(self, capsys):
     """
     Test the main method
     """
