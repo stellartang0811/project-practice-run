@@ -107,7 +107,8 @@ In the sample assignment, we have included code that will tell you whether the c
 - Now click on the Test icon in Visual Studio Code's left tool bar.
 - After a few seconds, a green play button will appear towards the top-left of the window. Click it to run the tests.
 - If the tests pass, you will not notice anything happen... no error and no change is good! Everything works!
-- A small little icon in the Visual Studio Code staatus bar at the bottom of the window will show a checkmark indicating that all 3 tests passed.
+- Sadly, the tests will fail because you have not completed the assignment yet!
+  A small little icon in the Visual Studio Code status bar at the bottom of the window will show an "X" icon indicating that some tests failed. If they all pass, it will show only a checkmark icon indicating that all tests passed.
 
 ### Create a Python virtual environment
 
