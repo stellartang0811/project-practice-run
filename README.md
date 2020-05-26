@@ -16,11 +16,11 @@ If you are viewing this file, then you have most likely **forked** a copy of a *
 
 ### Clone repository
 
-If you choose to continue, you will shortly **clone** this personal repository of yours to your own _local_ computer. Your original copy of this code on GitHub will still remain there, but you will have an additional copy on your own machine.
+You will shortly **clone** this personal repository of yours to your own _local_ computer. You may have done this already. Your original copy of this code on GitHub will still remain there, but you will have an additional copy on your own machine.
 
 ### Editing code
 
-You will make changes to your local copy of the code using a code editor. And, when you are done modifying the code, you will **push** - i.e. upload - your changes back to your copy on GitHub.com. Doing so shares the changes you made with the course instructor and graders. This is how you will submit assignments and possibly exams.
+You will make changes to your local copy of the code using a code editor. And, when you are done modifying the code, you will **push** - i.e. upload - your changes back to your repository on GitHub.com. Doing so shares the changes you made on your own computer with the course instructor and graders who will look at the code in your repository on GitHub.com. This is how you will submit assignments and possibly exams.
 
 ### Git
 
