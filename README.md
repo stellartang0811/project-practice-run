@@ -110,29 +110,6 @@ In the sample assignment, we have included code that will tell you whether the c
 - Sadly, the tests will fail because you have not completed the assignment yet!
   A small little icon in the Visual Studio Code status bar at the bottom of the window will show an "X" icon indicating that some tests failed. If they all pass, it will show only a checkmark icon indicating that all tests passed.
 
-### Create a Python virtual environment
-
-1. Click the `View` -> `Terminal` menu. This will pop open a Terminal panel in the editor.
-1. In the Terminal panel, type the three commands below suitable for your operating system.
-
-For Mac/Linux:
-
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-```
-
-For Windows:
-
-```bash
-py -m venv env
-.\.venv\Scripts\activate
-pip install -r requirements.txt
-```
-
-These commands create and initalize a Python "virtual environment" - an isolated area of computer memory and hard drive space where you can install and run programs without affecting other code running in other virtual environments. You'll see a directory named `.venv` has been automatically created for this environment. All the dependencies listed in `requirements.txt` are installed into this environment in this directory. Don't touch it!
-
 Now you are ready to modify the code!
 
 ## Modify the code
