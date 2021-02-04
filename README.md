@@ -97,7 +97,6 @@ A code linter helps identify code that is written incorrectly or in a bad style.
 
 ### Set up the testing framework
 
-[[Image:Vscode_test_status_bar.png|thumb|Visual Studio Code's status bar... notice the checkmark indicating the tests passed]]
 In the sample assignment, we have included code that will tell you whether the code in the project is running correctly. Set up the testing framework in Visual Studio Code:
 
 - Make sure the file named `example1.py` is still open in the editor. Open it in the Explorer view accessed from the Visual Code tool bar, if not.
